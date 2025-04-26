@@ -5,3 +5,9 @@ NYSM.2 compatible full featured TMC2209 stepper driver with a smaller footprint 
 
 
 It's around half the size of the original NYSM.2 driver, occupying a "2215" footprint rather than 2230, the smallest size seen on commercial M.2 drives.
+
+### Future versions: 
+* Cleaner routing
+* Better thermals
+* Custom low profile heatsink
+* Onboard setting jumpers for microstepping
